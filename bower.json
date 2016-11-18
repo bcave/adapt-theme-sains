@@ -1,13 +1,13 @@
 {
-    "name": "adapt-theme-learning",
+    "name": "adapt-theme-leadership",
     "repository": "git@github.com:bcave/adapt-theme-sains.git",
     "framework": "^2.0.0",
     "version": "0.2.0",
     "homepage": "https://github.com/bcave/adapt-theme-sains/",
     "issues": "https://github.com/bcave/adapt-theme-sains/issues",
-    "displayName": "Learning",
-    "theme": "Learning",
-    "description": "A custom theme for ODI modules w. Learning Logo",
+    "displayName": "Leadership",
+    "theme": "Leadership",
+    "description": "A custom theme for ODI modules w. leadership Logo",
     "main": "js/odi.js",
     "keywords": [
         "adapt-plugin",
